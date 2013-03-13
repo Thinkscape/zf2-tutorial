@@ -1,3 +1,3 @@
 ZF2 tutorial application
 
-See [http://akrabat.com/zend-framework-2-tutorial/](http://akrabat.com/zend-framework-2-tutorial/)
+See [Zend Framework 2 Getting Started Guide](http://www.zendframework.com/manual/2.1/en/user-guide/overview.html)
